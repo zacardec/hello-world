@@ -1,2 +1,2 @@
 # hello-world
-il faut bien commencer un jour.
+il faut bien commencer un jour!
